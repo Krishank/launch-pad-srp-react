@@ -10,6 +10,6 @@
   "author": "Krishank Dwivedi",
   "license": "MIT",
   "dependencies": {
-    "@hapi/hapi": "^18.x.x"
+    "@hapi/hapi": "^19.x.x"
   }
 }
